@@ -125,4 +125,7 @@ Together they trace one architecture: **compute (pandas) → transform (dbt) →
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+**AGPL-3.0** — see [LICENSE](LICENSE).
+
+The standalone extraction ([`panda_factor_core`](https://github.com/rogerlzp/panda_factor_core))
+is a derivative work and carries the same license.
