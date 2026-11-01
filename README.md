@@ -1,4 +1,7 @@
 # PandaFactor - PandaAI量化因子库
+
+> **English README available: [README.en.md](README.en.md)** — 面向国际读者 / 招聘方的英文说明。
+
 ![预览](https://zynf-test.oss-cn-shanghai.aliyuncs.com/github/ezgif-84dc5a49963246.gif
 )
 
